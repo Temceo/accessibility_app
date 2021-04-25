@@ -1,0 +1,31 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  station_code: MyString
+  station_name: MyString
+  staff_help_available: MyString
+  induction_loop: MyString
+  accessible_ticket_machines: MyString
+  height_adjusted_ticket_counter: MyString
+  ramp_for_train_access: MyString
+  accessible_taxis: MyString
+  accessible_public_telephones: MyString
+  national_key_toilets: MyString
+  step_free_access: MyString
+  impaired_mobility_set_down: MyString
+  wheelchairs_available: MyString
+
+two:
+  station_code: MyString
+  station_name: MyString
+  staff_help_available: MyString
+  induction_loop: MyString
+  accessible_ticket_machines: MyString
+  height_adjusted_ticket_counter: MyString
+  ramp_for_train_access: MyString
+  accessible_taxis: MyString
+  accessible_public_telephones: MyString
+  national_key_toilets: MyString
+  step_free_access: MyString
+  impaired_mobility_set_down: MyString
+  wheelchairs_available: MyString
